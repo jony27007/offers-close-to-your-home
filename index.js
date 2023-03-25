@@ -9,7 +9,7 @@ if (numero % 2 === 0) {
 }
 <<<<<<< HEAD
 
-function carolina() {
+function chris() {
   return {
       nombre: 'Christian',
       edad: 25,
