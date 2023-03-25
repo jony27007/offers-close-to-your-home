@@ -29,3 +29,16 @@ function Rodrigo() {
 
 
 
+function carolina() {
+    return {
+        nombre: 'carolina',
+        edad: 42,
+        nacionalidad: 'colombia',
+        
+    }
+}
+
+
+
+
+
