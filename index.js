@@ -27,6 +27,15 @@ function Rodrigo() {
 }
 
 
+function chris() {
+  return {
+      nombre: 'Christian',
+      edad: 25,
+      nacionalidad: 'argentina',
+      
+  }
+
+
 
 
 function carolina() {
@@ -36,7 +45,13 @@ function carolina() {
         nacionalidad: 'colombia',
         
     }
+
 }
+
+
+
+
+
 
 
 
