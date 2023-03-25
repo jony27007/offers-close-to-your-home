@@ -5,3 +5,11 @@ function laCajaDePandora(numero){
     return numero.toString(16)
   }
 }
+
+function Rodrigo() {
+  return {
+    nombre: "Rodrigo Duran",
+    edad: 25,
+    nacionalidad: "Argentino"
+  }
+}
