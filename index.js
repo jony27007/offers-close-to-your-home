@@ -1,4 +1,5 @@
 function laCajaDePandora(numero){
+
     // proximamente escribiremos codigo aqui
 
     if(numero % 2 ===0){
@@ -8,10 +9,23 @@ function laCajaDePandora(numero){
     }
     }
 
-    function colaborador (){
+ function colaborador (){
         return {
          nombre:"jesus",
          edad:"35",
          nacionalidad:"Venezolano"
         }
       }
+
+
+function Rodrigo() {
+  return {
+    nombre: "Rodrigo Duran",
+    edad: 25,
+    nacionalidad: "Argentino"
+  }
+}
+
+
+
+
