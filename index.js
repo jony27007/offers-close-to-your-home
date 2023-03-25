@@ -7,7 +7,7 @@ if (numero % 2 === 0) {
     return numero.toString(16); // Convertir a hexadecimal si es impar
   }
 }
-<<<<<<< HEAD
+
 
 function chris() {
   return {
@@ -17,11 +17,9 @@ function chris() {
       
   }
 }
-=======
-///asdg
 
-return 6;
+
 }
 
 
->>>>>>> c694fae5ba713ca10cd9be776f00198e89c29515
+
