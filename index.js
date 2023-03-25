@@ -17,6 +17,25 @@ function Rodrigo() {
 // proximamente escribiremos codigo aqui
 
 if (numero % 2 === 0) {
+
+    // Si es un número par, convertirlo a binario y retornarlo
+    return numero.toString(2);
+  } else {
+    // Si es un número impar, convertirlo a hexadecimal y retornarlo
+    return numero.toString(16);
+  }
+}
+
+
+
+function carolina() {
+    return {
+        nombre: 'carolina',
+        edad: 42,
+        nacionalidad: 'colombia',
+        
+    }
+}
     return numero.toString(2); // Convertir a binario si es par
   } else {
     return numero.toString(16); // Convertir a hexadecimal si es impar
@@ -26,6 +45,7 @@ if (numero % 2 === 0) {
 
 return 6;
 }
+
 
 
 
