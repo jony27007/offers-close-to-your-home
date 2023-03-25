@@ -1,5 +1,6 @@
 function laCajaDePandora(numero){
 // proximamente escribiremos codigo aqui
+
 if (numero % 2 === 0) {
     return numero.toString(2); // Convertir a binario si es par
   } else {
@@ -7,3 +8,8 @@ if (numero % 2 === 0) {
   }
 }
 ///asdg
+
+return 6;
+}
+
+
