@@ -35,9 +35,6 @@ function chris() {
       
   }
 
-
-
-
 function carolina() {
     return {
         nombre: 'carolina',
@@ -47,10 +44,6 @@ function carolina() {
     }
 
 }
-
-
-
-
 
 
 
