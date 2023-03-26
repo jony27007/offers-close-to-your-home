@@ -33,7 +33,7 @@ function chris() {
       edad: 25,
       nacionalidad: 'argentina',
       
-  }
+  }}
 
 function carolina() {
     return {
