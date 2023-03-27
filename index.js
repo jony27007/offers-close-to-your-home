@@ -9,6 +9,7 @@ function laCajaDePandora(numero){
     }
     }
 
+
  function jonathan (){
         return {
          nombre:"jonathan",
@@ -20,6 +21,15 @@ function laCajaDePandora(numero){
 
 
 
+
+
+ function Franco (){
+        return {
+         nombre:"franco",
+         edad:"31",
+         nacionalidad:"Argentina"
+        }
+  }
 
 
 
