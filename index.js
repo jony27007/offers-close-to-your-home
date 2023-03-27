@@ -9,41 +9,14 @@ function laCajaDePandora(numero){
     }
     }
 
- function colaborador (){
+ function Franco (){
         return {
-         nombre:"jesus",
-         edad:"35",
-         nacionalidad:"Venezolano"
+         nombre:"franco",
+         edad:"31",
+         nacionalidad:"Argentina"
         }
-      }
-
-
-function Rodrigo() {
-  return {
-    nombre: "Rodrigo Duran",
-    edad: 25,
-    nacionalidad: "Argentino"
   }
-}
 
-
-function chris() {
-  return {
-      nombre: 'Christian',
-      edad: 25,
-      nacionalidad: 'argentina',
-      
-  }}
-
-function carolina() {
-    return {
-        nombre: 'carolina',
-        edad: 42,
-        nacionalidad: 'colombia',
-        
-    }
-
-}
 
 
 
