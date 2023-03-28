@@ -23,14 +23,6 @@ function laCajaDePandora(numero){
 
 
 
- function Franco (){
-        return {
-         nombre:"franco",
-         edad:"31",
-         nacionalidad:"Argentina"
-        }
-  }
-
 
 
 
